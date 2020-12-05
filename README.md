@@ -1,4 +1,4 @@
-![](Pictures/1810217.jpg)
+![](1810217.jpg)
 
 # About the Students
 
