@@ -1,15 +1,16 @@
 ## Ansible Configuration
-* __How to create ansible configuration?__
 
-__Step 1:__ Create a directory.
+__How to create ansible configuration?__
+
+>__Step 1:__ Create a directory.
 
 `mkdir <name of directory>`
 
 `cd <name of directory>`
 
-__Step 2:__ Create you own ansible.cfg file.
+>__Step 2:__ Create you own ansible.cfg file.
 
-`vi ansible.cfg`
+>>`vi ansible.cfg`
 
 Insert
 ```Linux Alpine
@@ -23,7 +24,7 @@ remote_user = <server name of the other device>`
 _By default you can check the content of ansible.cfg file_  `etc/ansible/ansibel.cfg`
 
 ## Ansible Inventory
-* __How to create ansible inventory?__
+__How to create ansible inventory?__
 
 __Step 1:__ Create an inventory file.
 
@@ -41,7 +42,7 @@ or simply put the IP address
 
 ## Ansible Ad-hoc Commands
 
-* __How to create ad-hoc ansible command with setup and shell module?__
+__How to create ad-hoc ansible command with setup and shell module?__
 
 
 
